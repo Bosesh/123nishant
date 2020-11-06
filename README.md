@@ -1,5 +1,5 @@
 <h1 align="center">Hey I'm Nishant 👋</h1>
-<h3 align="center">A remote NLP engineer from India 👾</h3>
+<h3 align="center">A remote NLP Enthusiast from India 👾</h3>
 <h3 align="center">NLP | Deep Learning | Python | AWS | Privacy Preserving Machine Learning</h3>  
 
 <p align="center">
@@ -19,4 +19,4 @@ I have worked on a variety of domains and projects.
 
 🖌  I regulary write data science blogs on [Medium](https://nishantkumar94.medium.com)
 
-🙏🏼  You can reach me via [Twitter](https://twitter.com/Nk_1O1)
+🙏🏼  You can reach me via [Twitter](https://twitter.com/Nk_1O1) and [LinkedIn](https://www.linkedin.com/in/nishant-kumar-350043a5/)
