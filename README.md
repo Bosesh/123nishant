@@ -20,3 +20,5 @@ I have worked on a variety of domains and projects.
 🖌  I regulary write data science blogs on [Medium](https://nishantkumar94.medium.com)
 
 🙏🏼  You can reach me via [Twitter](https://twitter.com/Nk_1O1) and [LinkedIn](https://www.linkedin.com/in/nishant-kumar-350043a5/)
+
+Few of my acquired certifications can be found at [Certificates](https://github.com/123nishant/Certifications)
