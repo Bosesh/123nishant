@@ -1,4 +1,4 @@
-<h1 align="center">Hey I'm Nishant 👋</h1>
+<h1 align="center">Hey I'm Patrix 👋</h1>
 <h3 align="center">A remote NLP Enthusiast from India 👾</h3>
 <h3 align="center">NLP | Deep Learning | Python | AWS | Privacy Preserving Machine Learning</h3>  
 
